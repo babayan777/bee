@@ -1,0 +1,18 @@
+/* Tailwind */
+/* stylelint-disable-line at-rule-no-unknown */
+@tailwind base;
+@tailwind components;
+
+@tailwind utilities;
+
+@font-face {
+  font-family: "Montserrat arm";
+  font-weight: normal;
+  src:url(assets/fonts/Montserratarm-Regular.otf );
+}
+
+@font-face {
+  font-family: "Montserrat arm";
+  src:url(assets/fonts/Montserratarm-Medium.otf );
+  font-weight: bold;
+}
